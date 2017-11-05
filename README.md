@@ -1,7 +1,7 @@
 # VIM-Cheetsheet
 
 ## Change  Modes:
-* ´i´ Insert Mode
+* `i` Insert Mode
 * ´esc´ Command Mode
 * Last Line Mode
 
